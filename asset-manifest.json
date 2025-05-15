@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/learningcicd/static/css/main.f855e6bc.css",
+    "main.js": "/learningcicd/static/js/main.f52566bc.js",
+    "index.html": "/learningcicd/index.html",
+    "main.f855e6bc.css.map": "/learningcicd/static/css/main.f855e6bc.css.map",
+    "main.f52566bc.js.map": "/learningcicd/static/js/main.f52566bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.f52566bc.js"
+  ]
+}
